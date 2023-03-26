@@ -4,5 +4,7 @@
 
 ### Para rodar o projeto:
 
-`npm run dev`
+* Instale as dependencias: `npm i`
+
+* Rode o projeto: `npm run dev`
 
